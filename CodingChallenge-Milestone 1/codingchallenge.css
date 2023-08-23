@@ -1,0 +1,34 @@
+#dispay-el {
+    border: 1px solid black;
+    border-radius: 8px;
+    height: 200px;
+    width: min-content;
+    text-overflow: inherit;
+}
+
+#addLineButton{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 20px;
+    border-radius: 8px;
+    border: 1px solid black;
+}
+
+#removeLineButton {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 20px; 
+    border-radius: 8px;
+    border: 1px solid black;  
+}
+
+#resetPageButton{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 20px; 
+    border-radius: 8px;
+    border: 1px solid black;    
+}
+
+/* generating the various styling for the viewing paragraph and buttons*/
+/*there a loads of formatting issues i still need to work on as well to create a more pleasant UI*/
